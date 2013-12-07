@@ -51,7 +51,7 @@ int sorted_order(int a, int b){
 }
 
 int reverse_order(int a, int b){
-        return b -a;
+        return b - a;
 }
 
 int strange_order(int a, int b){
@@ -64,7 +64,7 @@ int strange_order(int a, int b){
 
 void test_sorting(int *numbers, int count, compare_cb cmp){
         int i = 0;
-        int *sorted= bubble_sort(numbers, count, cmp);
+        int *sorted = bubble_sort(numbers, count, cmp);
         if(!sorted) die("Failed to sort as requested.");
 
         for(i = 0; i < count; i++){
