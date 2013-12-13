@@ -10,3 +10,4 @@ Code snippet retyped from [learn c the hard way](http://c.learncodethehardway.or
 + Zed's awesome debug macros (2013-12-11 11:17 AM)
 + extern var and scope-related demo (2013-12-11 3:59 PM)
 + io related function demo (2013-12-12 11:25 AM)
++ vararg based on ex25 (2013-12-12 5:00 PM)
