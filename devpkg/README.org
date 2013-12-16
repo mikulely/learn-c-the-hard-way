@@ -1,0 +1,12 @@
+* Dependencies
+
++ dbg.h
++ bstrlib.h and bstrlib.c from http://bstring.sourceforge.net/. Download the .zip file, extract it, and copy just those two files out.
+
+* The Soure Files
+
++ bstrlib.o
++ db.o - 处理文件数据库
++ shell.o - 运行各种命令
++ commands.o
++ devpkg
