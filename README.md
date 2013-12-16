@@ -11,3 +11,4 @@ Code snippet retyped from [learn c the hard way](http://c.learncodethehardway.or
 + extern var and scope-related demo (2013-12-11 3:59 PM)
 + io related function demo (2013-12-12 11:25 AM)
 + vararg based on ex25 (2013-12-12 5:00 PM)
++ devpkg based on ex26 (2013-12-16 2:47 PM)
